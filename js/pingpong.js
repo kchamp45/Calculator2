@@ -30,7 +30,7 @@ Calculator.prototype.basicCalc = function(num1, num2, operation) {
   }else if (operation == "divide") {
     result = num1 / num2;
   } else {
-    alert("try again")
+    alert("try again");
 }
 return result;
 };
