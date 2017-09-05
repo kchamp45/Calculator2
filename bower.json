@@ -6,7 +6,7 @@
     "Kimberly Lu <kimlu4@comcast.net>"
   ],
   "license": "ISC",
-  "homepage": "",
+  "homepage": "https://github.com/kchamp45/Calculator2",
   "ignore": [
     "**/.*",
     "node_modules",
